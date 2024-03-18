@@ -1,2 +1,0 @@
-# gitremote
-ejercicio git remote
